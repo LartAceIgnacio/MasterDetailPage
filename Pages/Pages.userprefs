@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{EF54A490-4EAC-469D-96C0-99DA5C07405F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Pages.cs">
+    <Files>
+      <File FileName="Pages/MyFirstPage.xaml.cs" Line="16" Column="4" />
+      <File FileName="Pages/MyFirstPage.xaml" Line="1" Column="1" />
+      <File FileName="Pages/MySecondPage.xaml" Line="1" Column="1" />
+      <File FileName="Pages/SlideDrawer/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Pages/SlideDrawer/MasterPage.xaml" Line="9" Column="68" />
+      <File FileName="Pages/SlideDrawer/MasterPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Pages/Pages.cs" Line="15" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Pages.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E135D122-EF4E-43D1-8EB4-79A850B52861" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Pages.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
+</Properties>
